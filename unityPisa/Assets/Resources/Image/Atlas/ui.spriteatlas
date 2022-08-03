@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ui
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d177f5e628237a34f815631e8df8e286, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 717ffe9140b504c4f96033ca0a228e80, type: 3}
+  - {fileID: 21300000, guid: 6d10a0a1e30fc26408fdb74d806c609a, type: 3}
+  - {fileID: 21300000, guid: 29fbe3a168955c94f88619d7e7432efd, type: 3}
+  - {fileID: 21300000, guid: dda81ac1101da384689decd3ae5a1264, type: 3}
+  - {fileID: 21300000, guid: 0f7d9ce19473550429d88e1555375c25, type: 3}
+  - {fileID: 21300000, guid: f15bd143daac90448878ea192dc4abf6, type: 3}
+  - {fileID: 21300000, guid: 4228b763797909749810b737c05ad615, type: 3}
+  - {fileID: 21300000, guid: adc8d97344438ed4e984957e322855ad, type: 3}
+  - {fileID: 21300000, guid: f3557d84b47967f4c95fbb06bade261c, type: 3}
+  - {fileID: 21300000, guid: e74577c4b276df84f9ddd57ecffca1ee, type: 3}
+  - {fileID: 21300000, guid: 904a8765bac63724a8fcfc8bb1c3201d, type: 3}
+  - {fileID: 21300000, guid: b2044136ecbcdab4da9b3c77cf643034, type: 3}
+  - {fileID: 21300000, guid: 606a69a602dcce94789e1375c2abcb4d, type: 3}
+  - {fileID: 21300000, guid: e608f7a7eeb92194f9768d87b924dfb4, type: 3}
+  - {fileID: 21300000, guid: 95a373c7d549f3c459a51ea4bbe83611, type: 3}
+  - {fileID: 21300000, guid: 0c0404f780e58214b9c81d043db7c3bc, type: 3}
+  - {fileID: 21300000, guid: 3f708c6b5d1516148abcacd49d883b80, type: 3}
+  - {fileID: 21300000, guid: 118dbe7b81c87cf49a1f23807307aab8, type: 3}
+  - {fileID: 21300000, guid: 30fe56cbb7a1afd42ba5806edf91dfd6, type: 3}
+  - {fileID: 21300000, guid: 1e4f0ddba950a71489935f5fa176a0c2, type: 3}
+  - {fileID: 21300000, guid: aff9645dffe01e343b0263f02206583e, type: 3}
+  - {fileID: 21300000, guid: 654cadfd49be35e4f9fd82e7c6f00cf1, type: 3}
+  - {fileID: 21300000, guid: 38b01f5ea89a8444e99fe6b2b52a801b, type: 3}
+  - {fileID: 21300000, guid: 5f47c08e75ecad147a49196882122ab5, type: 3}
+  - {fileID: 21300000, guid: 51de349e3e8ae064c99c49956204a631, type: 3}
+  - {fileID: 21300000, guid: bd009b9e79df6cd4abff71cb918337e0, type: 3}
+  - {fileID: 21300000, guid: f693300f12528144d93f6c5a82eb585a, type: 3}
+  - {fileID: 21300000, guid: 73a8fd1fe699ed44497102195168aaaa, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sz_k3
+  - an_1
+  - an_2
+  - setting
+  - food_1
+  - food_0
+  - sz_k2
+  - tx_kuang
+  - tb_my
+  - cp_bj
+  - sz_k1
+  - stage_ui_
+  - tb_bj
+  - tc_bj1
+  - bt_bj
+  - tc_bj3
+  - dian_1
+  - tc_bj2
+  - an_gb
+  - haptic
+  - tc_bj5
+  - noads
+  - tc_bj4
+  - alert_icon
+  - sound
+  - dian
+  - tc_bj6
+  - lock_ui
+  m_RenderDataMap: {}
+  m_Tag: ui
+  m_IsVariant: 0
+  m_IsPlaceholder: 0
