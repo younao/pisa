@@ -1520,13 +1520,17 @@ public class MapControl : BaseScript
                 openMenIndex.Add(i);
             }
         }
-        if (DataAll.Instance.level == 0)
+        if (DataAll.Instance.isOnePlay > 20)
         {
-            if (DataAll.Instance.openMen == 0)
+            if (DataAll.Instance.level == 0)
             {
-                onePlayMen(men.transform.GetChild(1).gameObject, 1);
+                if (DataAll.Instance.openMen == 0)
+                {
+                    onePlayMen(men.transform.GetChild(1).gameObject, 1);
+                }
             }
         }
+
     }
 
     void setMen1(GameObject g, int i)
