@@ -10,7 +10,8 @@ public class StartGame : MonoBehaviour
         DataAll.Instance.init();
         gameObject.AddComponent<ToolsMono>();
         new ViewManage();
-        Invoke("laterFun", 1);
+        //Debug.logger.logEnabled = false;
+        Invoke("laterFun", 2);
     }
 
     void laterFun()
