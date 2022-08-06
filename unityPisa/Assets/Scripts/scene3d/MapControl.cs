@@ -387,7 +387,7 @@ public class MapControl : BaseScript
                     int indexf = cp.foodData.foodPos.transform.childCount - 1;
                     GameObject.Destroy(cp.foodData.foodPos.transform.GetChild(indexf).gameObject);
                     addGold(cp.foodData.goldPos, newGold);
-
+                    addGold(cp.foodData.goldPos, newGold);
                     if (cp.eatFoodNum > 45)
                     {
                         cp.eatFoodNum = 0;
@@ -433,7 +433,7 @@ public class MapControl : BaseScript
     {
         get
         {
-            return GameConfig.self.newGold + DataAll.Instance.newGold * 5;
+            return GameConfig.self.newGold + DataAll.Instance.newGold * 2;
         }
     }
 

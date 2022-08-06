@@ -42,7 +42,7 @@ public class GameConfig
     public float checkPosTime = 0.1f;
 
     //客人吃的速度
-    public float aiEatTime = 0.8f;
+    public float aiEatTime = 1.4f;
 
     //机器生成的最大值
     public int newFoodMax = 10;
@@ -66,7 +66,7 @@ public class GameConfig
     public int openFood = 500;
 
     //生成金币的基础值
-    public int newGold = 10;
+    public int newGold = 5;
 
     //升级食物机金币
     public int upFoodLeve = 500;
